@@ -1,2 +1,10 @@
 # REDESCRR
 SIte criado para uma empresa de instalação de redes de proteção.
+#Site criado para uma empresa de redes de proteção 
+# existe um botão interativo para WhatsApp 
+#menu com interação em java script
+-#desenvolvi em 2025 
+#jvascript, html5 e css 
+#Adaptado para todas os tamanhos de tela e CELULARES 
+#Adaptado para todos os navegadores de computadores
+#adaptado para tablet
